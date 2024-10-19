@@ -1,0 +1,10 @@
+{
+    "name": "WikiTerminalInfo",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "Search various wiki pages directly in the terminal",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+		"NotAtomicBomb-TerminalApi-1.5.5"
+	]
+}
