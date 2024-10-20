@@ -1,6 +1,7 @@
 ## Version 1.0.1 (Newest Version)
 - Added page for challenge moons
-- 
+- Added a GitHub page to collect Feedback/suggestions more easily
+- Fixed the Terminal Page to not just overwrite the entire screen
 
 ## Version 1.0.0
 - Added a page for every single remaining srap item
